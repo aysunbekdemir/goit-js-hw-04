@@ -13,7 +13,6 @@ const profile = {
     this.username = newName; 
   },
 
-
   updatePlayTime: function(hours) {
     this.playTime += hours; 
   }
